@@ -20,23 +20,6 @@ No JavaScript and no hand-written CSS files. All styling is done with Tailwind c
 - Red, yellow and black color theme, with flame orange accents
 - Respects reduced-motion settings
 
-## Project structure
-
-```
-Hero/
-├── index.html            # Page markup and Tailwind classes
-├── tailwind.config.js    # Custom colors and font (brand, sun, flame, ink)
-└── README.md
-```
-
-## Run it locally
-
-1. Download or clone the repo.
-2. Keep `index.html` and `tailwind.config.js` in the same folder.
-3. Open `index.html` in your browser.
-
-The page loads Tailwind from its CDN script, so you need an internet connection.
-
 ## Notes
 
 The nonprofit, its numbers and the charity registration number are all made up for this practice project.
